@@ -1,0 +1,24 @@
+---
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: feelingtracker
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: feelingtracker
+  template:
+    metadata:
+      labels:
+        app: feelingtracker
+    spec:
+      containers:
+        - name: feelingtracker
+          image: reselbob/feelingtracker:latest
+          ports:
+            -
+              containerPort: 3000
+          env:
+            - name: SECRET_MESSAGE
+              value: feelingtracker ROCKS
