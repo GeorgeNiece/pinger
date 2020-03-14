@@ -26,7 +26,7 @@ for downloading and installing Node.js [here](https://nodejs.org/en/download/).
 
 **Step 2:** Clone this repository to the local machine or VM.
 
-`git clone https://github.com/reselbob/pinger.git`
+`git clone https://github.com/GeorgeNiece/pinger.git`
 
 **Step 3:** Navigate into the directory that has the `pinger` source code.
 
@@ -90,7 +90,7 @@ You get output similar to the following:
 
 **Step 2:** Clone the project source from GitHub
 
-`git clone https://github.com/reselbob/pinger.git`
+`git clone https://github.com/GeorgeNiece/pinger.git`
 
 **Step 3:** Navigate to the application source code directory
 
