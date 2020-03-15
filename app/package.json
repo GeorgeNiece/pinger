@@ -13,7 +13,7 @@
     "coverage": "nyc --reporter=lcov --reporter=text-lcov npm test && node testdocserver.js",
     "docker": "mocha test/docker-tests.js"
   },
-  "author": "Bob Reselman <reselbob@gmail.com>",
+  "author": "George Niece <george.niece@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",

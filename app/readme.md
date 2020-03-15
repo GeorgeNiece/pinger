@@ -116,12 +116,12 @@ Example return:
         ]
     },
     "envVars": {
-        "PATH": "/Users/reselbob/.local/bin:/Users/reselbob/Library/Python/3.6/bin/:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/reselbob/Documents/drivers:/Library/Frameworks/Mono.framework/Versions/Current/Commands",
+        "PATH": "/export/home/georgeniece/.local/bin:/export/home/georgeniece/Library/Python/3.6/bin/:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/export/home/georgeniece/Documents/drivers:/Library/Frameworks/Mono.framework/Versions/Current/Commands",
         "SHELL": "/bin/bash",
         "FORCE_COLOR": "true",
         "ELECTRON_NO_ATTACH_CONSOLE": "true",
         "SECURITYSESSIONID": "186a8",
-        "USER": "reselbob",
+        "USER": "georgeniece",
         "DEBUG_COLORS": "true",
         "TMPDIR": "/var/folders/kr/bdw5rcf527x28m_4z71fbzs00000gn/T/",
         "COMMAND_MODE": "unix2003",
@@ -132,11 +132,11 @@ Example return:
         "COLORTERM": "true",
         "__CF_USER_TEXT_ENCODING": "0x1F5:0x0:0x0",
         "Apple_PubSub_Socket_Render": "/private/tmp/com.apple.launchd.PIFk5oUDUd/Render",
-        "LOGNAME": "reselbob",
+        "LOGNAME": "georgeniece",
         "LC_CTYPE": "en_US.UTF-8",
         "XPC_SERVICE_NAME": "com.apple.xpc.launchd.oneshot.0x10000006.webstorm",
-        "PWD": "/Users/reselbob/Documents/source-tree/pinger/app",
-        "HOME": "/Users/reselbob"
+        "PWD": "/export/home/georgeniece/Documents/source-tree/pinger/app",
+        "HOME": "/export/home/georgeniece"
     },
     "requestHeaders": {
         "host": "localhost:3000",
@@ -283,12 +283,12 @@ Example return:
 
 ```json
 {
-    "PATH": "/Users/reselbob/.local/bin:/Users/reselbob/Library/Python/3.6/bin/:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/reselbob/Documents/drivers:/Library/Frameworks/Mono.framework/Versions/Current/Commands",
+    "PATH": "/export/home/georgeniece/.local/bin:/export/home/georgeniece/Library/Python/3.6/bin/:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/export/home/georgeniece/Documents/drivers:/Library/Frameworks/Mono.framework/Versions/Current/Commands",
     "SHELL": "/bin/bash",
     "FORCE_COLOR": "true",
     "ELECTRON_NO_ATTACH_CONSOLE": "true",
     "SECURITYSESSIONID": "186a8",
-    "USER": "reselbob",
+    "USER": "georgeniece",
     "DEBUG_COLORS": "true",
     "TMPDIR": "/var/folders/kr/bdw5rcf527x28m_4z71fbzs00000gn/T/",
     "COMMAND_MODE": "unix2003",
@@ -299,11 +299,11 @@ Example return:
     "COLORTERM": "true",
     "__CF_USER_TEXT_ENCODING": "0x1F5:0x0:0x0",
     "Apple_PubSub_Socket_Render": "/private/tmp/com.apple.launchd.PIFk5oUDUd/Render",
-    "LOGNAME": "reselbob",
+    "LOGNAME": "georgeniece",
     "LC_CTYPE": "en_US.UTF-8",
     "XPC_SERVICE_NAME": "com.apple.xpc.launchd.oneshot.0x10000006.webstorm",
-    "PWD": "/Users/reselbob/Documents/source-tree/pinger/app",
-    "HOME": "/Users/reselbob"
+    "PWD": "/export/home/georgeniece/Documents/source-tree/pinger/app",
+    "HOME": "/export/home/georgeniece"
 }
 ```
 

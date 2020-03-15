@@ -27,7 +27,7 @@
       },
       {
         "name": "pinger",
-        "image": "reselbob/pinger",
+        "image": "georgeniece/pinger",
         "ports": [
           {
             "hostPort": 3000,

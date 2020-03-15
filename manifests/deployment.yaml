@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: pinger
-          image: reselbob/pinger
+          image: georgeniece/pinger
           ports:
             -
               containerPort: 3000
